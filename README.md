@@ -1,4 +1,12 @@
 # Pretest Task Whisper
+### System information 
+
+```bash
+Hardware: Apple M1 Arm64, 8GB RAM
+Operating System: macOS Sonoma 14.3
+Kernel Version: Darwin 23.3.0
+```
+### Framework execution
 
 1. Built and ran whisper tiny.en model by following this [guide](https://github.com/ggerganov/whisper.cpp).</br></br>
    <img width="1440" alt="Screenshot 2024-02-08 at 6 57 42 PM" src="https://github.com/rum1887/pretestTaskWhisper/assets/57267583/db9670bd-e519-4292-a38a-da2d8f89e287">
